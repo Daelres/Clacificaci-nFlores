@@ -12,7 +12,7 @@ IMG_WIDTH = 180
 # ⚠️ Ajusta esto si cambiaste clases
 CLASS_NAMES = ['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
 
-MODEL_PATH = "modelo_flores.h5"
+MODEL_PATH = "modelo_flores.keras"
 
 # =========================
 # CARGA DEL MODELO
